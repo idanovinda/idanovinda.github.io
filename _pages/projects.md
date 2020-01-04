@@ -47,6 +47,6 @@ Utilized​ : Python, Oracle, Excel, Flask, QGis
 
 #### Trans Jakarta Big Data Analytics
 
-- Implemented visualization on transaction data to analyze and report the anomaly and the crowd pattern by Python
+- Implemented visualization on transaction data to analyze and report the anomaly and the crowd pattern by using Python
 
 Utilized:​ Python, matplotlib, SQL, Flask, GitLab
