@@ -44,7 +44,7 @@ google_analytics: UA-155320771-1 # out your google-analytics code
 # Blog
 # -----------------------------------------------------------------------------
 blog_name: idanovinda
-blog_description: Daily journal on what I learned. Coming Soon.
+blog_description: Check my articles in Medium!
 
 # Pagination
 paginate: 4
