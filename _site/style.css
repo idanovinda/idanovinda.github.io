@@ -71,7 +71,7 @@ hr.star-light {
 
 hr.star-light:after {
     color: #fff;
-    background-color: #495b6a;
+    background-color: #18bc9c;
 }
 
 hr.star-primary {
@@ -90,12 +90,12 @@ hr.star-primary:after {
 header {
     text-align: center;
     color: #fff;
-    background: #608382;
+    background: #18bc9c;
 }
 
 header .container {
-    padding-top: 125px;
-    padding-bottom: 100px;
+    padding-top: 100px;
+    padding-bottom: 50px;
 }
 
 header img {
@@ -105,27 +105,11 @@ header img {
 
 header .intro-text .name {
     display: block;
-    /* text-transform: uppercase; */
+    text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 2em;
-    font-weight: 600;
-    /* overflow: hidden; */
-    /* animation: 
-        typing 3.5s steps(40, end),
-        blink-caret .75s step-end infinite; */
+    font-weight: 700;
 }
-
-/* The typing effect */
-@keyframes typing {
-    from { width: 0 }
-    to { width: 100% }
-  }
-  
-  /* The typewriter cursor effect */
-  @keyframes blink-caret {
-    from, to { border-color: transparent }
-    50% { border-color: orange }
-  }
 
 header .intro-text .skills {
     font-size: 1.25em;
@@ -134,8 +118,8 @@ header .intro-text .skills {
 
 @media(min-width:768px) {
     header .container {
-        padding-top: 225px;
-        padding-bottom: 250px;
+        padding-top: 200px;
+        padding-bottom: 100px;
     }
 
     header .intro-text .name {
@@ -205,7 +189,7 @@ section h2 {
 
 section.success {
     color: #fff;
-    background: #495b6a;
+    background: #18bc9c;
 }
 
 @media(max-width:767px) {
