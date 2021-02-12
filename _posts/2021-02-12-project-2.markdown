@@ -8,5 +8,5 @@ alt: image-alt
 title: Web development
 # client: Start Bootstrap
 # category: Web Development
-description: 
+description: <h3>Pusdatin</h3><p></br>Integrated Data Center. </br> </br><img src="img/portfolio/web_dev/pusdatin.jpg" class="img-responsive img-centered" alt="{{ post.alt }}"></br></br></p><h3>Trainer Management</h3><p></br></br></br></p> <h3>Multi-touch Couch Table</h3><p></br></br></br></p>
 ---

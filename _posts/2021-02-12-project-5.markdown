@@ -5,8 +5,8 @@ date: 2014-07-16
 img: certificate.png
 alt: image-alt
 title: Certificates
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
----
+# project-date: April 2014
+# client: Start Bootstrap
+# category: Web Development
+description: <h3>Data Analysis</h3><p></br><img src="img/portfolio/certificates/analytics.png" class="img-responsive img-centered" alt="{{ post.alt }}"></br></br></p> <h3>Data Visualization</h3><p></br><img src="img/portfolio/certificates/viz.png" class="img-responsive img-centered" alt="{{ post.alt }}"></br></br></p> <h3>Programming</h3><p></br><img src="img/portfolio/certificates/prog.png" class="img-responsive img-centered" alt="{{ post.alt }}"></br></br></p> 
+--- 
