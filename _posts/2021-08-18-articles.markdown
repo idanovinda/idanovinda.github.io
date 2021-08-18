@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 1
+# date: 2014-07-18
+img: medium.png
+alt: image-alt
+# project-date: April 2014
+title: Articles
+# client: Start Bootstrap
+# category: Web Development
+description: <ol><p>In this section, I list my articles that I wrote in English (EN) and Bahasa Indonesia (IND). They are available on <a href="http://idanovinda.medium.com">my medium page</a>.</p> </br> </br> <blockquote> "You can always edit a bad page, but you can’t edit a blank page." - <i>Jodi Picoult</i></blockquote></br></br><h3><li>Knowledge Distillation [EN]</li></h3><p></br> The problem with current machine learning model is that they have large size. This model arise in high latency which make it not practical to deploy in edge devices, such as mobile phones. To overcome this problem, what if we build a small model and let the big model teach it? How is it possible? <a href="https://towardsdatascience.com/why-bother-deploying-a-huge-neural-model-when-the-small-one-is-enough-47b9a2da8df1">[READ MORE]</a> </br> </br> </p> <h3><li>Web Crawling with BeautifulSoup [IND]</li></h3><p></br>Start learning web scraping with 5 lines of code in Python. <a href="https://idanovinda.medium.com/implementasi-web-scraping-dengan-menggunakan-beautifulsoup-python-edca4b9cdc47">[READ MORE]</a> </br></br></p> <h3><li>Introduction to Machine Learning [IND]</li></h3><p></br>Machine learning becomes so popular in every aspect of human life. But what actually machine learning is? What is the real application of machine learning? <a href="https://idanovinda.medium.com/pengenalan-machine-learning-dan-aplikasinya-6f21dfe0d380">[READ MORE]</a> </br></br></p> <h3><li>Gradient Descent in Machine Learning [IND]</li></h3><p>How fast should we make our machine learn? Why does it matter? </br><a href="https://idanovinda.medium.com/pengaruh-ukuran-batch-dan-learning-rate-dalam-konvergensi-gradient-descent-ebfe6f4cae75">[READ MORE]</a></br></br></p> <h3><li>Neural Network Regularizer [IND]</li></h3><p></br>Why your model only has a good performance on the training data? Why it performs really bad in the evaluation data? How to handle it? <a href='https://idanovinda.medium.com/mengapa-diperlukan-regularisasi-pada-model-neural-network-d622ed98f9a8'>[READ MORE]</a></br></br></p></ol>
+---

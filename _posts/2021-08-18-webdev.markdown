@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 2
+# date: 2014-07-18
+img: web_design.png
+alt: image-alt
+# project-date: April 2014
+title: Web development
+# client: Start Bootstrap
+# category: Web Development
+description: </br></br><ol><h3><li>Pusdatin</li></h3><p></br>Pusdatin is an integrated data center for oil and gas data own by Indonesian goverment. In this application, the users can buy or rent data about oil and gas whether it is physical or digital. </br> </br><img src="img/portfolio/web_dev/pusdatin.jpg" class="img-responsive img-centered" alt="{{ post.alt }}"></br></br></p><h3><li>Trainer Management</li></h3><p></br>ECM Trainer Management is a web platform used by a company to manage their employees during an event. The manager can assign their employees on an event and monitor their employees during the event. The employees also be able to report the current condition of the event i.e. sales of product, the start and the end time of an event.</br></br></p> <h3><li>Multi-touch Couch Table</li></h3><p></br>This project is about developing a desktop app for Samsung multi-touch couch table (SUR40). With this monitor as a table in your home, you can get the information in a product, such as calories and ingredients. </br></br><img src="img/portfolio/web_dev/irl-dfki.jpg" class="img-responsive img-centered" alt="{{ post.alt }}"></br></br></p></ol>
+---
