@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 5
+date: 2014-07-16
+img: gamedev.png
+alt: image-alt
+title: Game Development
+# project-date: April 2014
+# client: Start Bootstrap
+# category: Web Development
+description: </br></br> <ol> <h3><li>Mathemonster </li> </h3> <p><br><br><iframe width="800" height="450" src="https://www.youtube.com/embed/6v9xypQyTpY?autoplay=1&mute=1"> </iframe></p></ol>
+--- 
